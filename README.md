@@ -2,8 +2,8 @@
 
 We need a tool to not depend on scraped sites failures to exercice errors conditions.
 Goals: 
-  * configurable chaos injection in fastapi based HTTP/WS services.
-  * configurable chaos not so transparent proxy for any scaped site.
+  * configurable deterministic & random chaos injection in fastapi based HTTP/WS services.
+  * configurable deterministic & random chaos injection not so transparent proxy for any scraped site.
 
 Non Goals:
   * WTF
